@@ -26,3 +26,8 @@ a:hover{
 h1{
     color: aliceblue;
 }
+audio{
+    position:fixed;
+    right: 30px;
+    bottom: 30px;
+}
